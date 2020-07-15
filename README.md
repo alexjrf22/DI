@@ -1,13 +1,13 @@
-# DI <h1>
+# DI 
 
-#Descrição <h1>
+#Descrição 
 
 Estou retornando ao desenvolvimento PHP e apenas como uma forma de recomeçar, resolvir fazer um crud bem simples,
 O sistema Web proposto consiste em inserir, listar, deletar e atualizar os dados de um cliente. Cliente esse que terá
 id, nome, e-mail. O sistema é escrito em PHP, orientado a objetos e faz conexão com um banco de dados MYSQL. Para efetuar a conexão foi utilizado o
 PDO. 
 
-#Dependencias Para o Funcionamento do Sistema <h1>
+#Dependencias Para o Funcionamento do Sistema 
 
 *browser (Navegador WEB);
 *O sistema depende de um servidor Web (Apache ou afins);
