@@ -9,10 +9,10 @@ PDO.
 
 #Dependencias Para o Funcionamento do Sistema 
 
-*browser (Navegador WEB);
-*O sistema depende de um servidor Web (Apache ou afins);
-*PHP versão 5.6 ou posterior;
-*Banco de Dados MYSQL
+* browser (Navegador WEB);
+* O sistema depende de um servidor Web (Apache ou afins);
+* PHP versão 5.6 ou posterior;
+* Banco de Dados MYSQL
 
 #Como instalar
 
